@@ -22,5 +22,3 @@ Soy un apasionado desarrollador web con un enfoque especializado en Laravel, un 
 #### Fun Fact:
 
 - ⚡ Aunque me dedico intensamente al desarrollo web, también soy un ávido aficionado a la música y toco la guitarra en mi tiempo libre.
-
-¡Espero que esta versión mejorada refleje adecuadamente tu experiencia y pasión por el desarrollo web y Laravel! Si hay algún ajuste adicional que desees, ¡házmelo saber!
